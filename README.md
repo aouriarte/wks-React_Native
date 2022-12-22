@@ -1,4 +1,4 @@
-# Henry Workshop - React Native
+# Workshop - React Native
 
 ## Overview
 
